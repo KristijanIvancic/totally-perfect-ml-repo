@@ -17,7 +17,7 @@ Your job is to tell us about anything you think is missing, or should be fixed/i
 
 Start with looking at the repository as a whole, and then dive into the individual files.
 
-Don't worry, you won't lose points if you don't notice or mention something. This isn't meant to be a quiz. It's meant to guid a conversation so we can understand more about your experience. If we think there's something more that could be done, we'll ask you about it so you have a chance to express your thoughts.
+Don't worry, you won't lose points if you don't notice or mention something. This isn't meant to be a quiz. It's meant to guide a conversation so we can understand more about your experience. If we think there's something more that could be done, we'll ask you about it so you have a chance to express your thoughts.
 
 ## Data dictionary
 
